@@ -70,6 +70,7 @@ npx run import
 1. Importing Bloks (feel free to adjust & maybe create a PR? :) )
 2. Check for images vs links
 3. Proper Error handling
+4. Does not support RichText Imports by now.
 
 ## Known thing
 
