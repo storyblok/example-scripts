@@ -1,1 +1,6 @@
 node_modules/
+.env
+.idea/
+export/*.csv
+export/*.xlsx
+.DS_Store
